@@ -1,0 +1,4 @@
+# Lab0_2018_2_ejercicio
+este es un nuevo proyecto C++
+C++ es un lenguaje de programación multiparadigma, puesto que permite programar de manera imperativa, orientada a objetos o genérica.
+C++ es un lenguaje de programación orientado a objetos basado en C. Fue desarrollado en la década de los 80 e inicialmente llamado “C con clases”.
